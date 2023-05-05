@@ -63,6 +63,17 @@ eps of this method was chosen 4500 based on the changing point of K-NN analysis.
 
 <img src="dbs_cluster_num.png">
 
+Clustering results by DBSCAN between two variables:
+
+<img src="dbscan_pair_cluster.png">
+
+Clustering results by DBSCAN between Aall variables:
+
+<img src="dbscan_all_cluster.png">
+
+
+
+
 
 
 
