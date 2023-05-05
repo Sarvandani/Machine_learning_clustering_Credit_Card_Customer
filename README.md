@@ -24,7 +24,7 @@ The dataset has been scaled:
 
 Now, we are able to apply the clustering methods. 
 
-In data mining, the K-means algorithm is utilized to handle learning data. Initially, a set of random centroids is selected and assigned to each cluster. The algorithm then iteratively performs calculations to optimize the positions of the centroids until they become stable or a defined number of iterations is reached. At this point, the creation and optimization of clusters stop, indicating a successful clustering process.
+1. In data mining, the K-means algorithm is utilized to handle learning data. Initially, a set of random centroids is selected and assigned to each cluster. The algorithm then iteratively performs calculations to optimize the positions of the centroids until they become stable or a defined number of iterations is reached. At this point, the creation and optimization of clusters stop, indicating a successful clustering process.
 Important step is to determine the number of clusters. I used Silhouette Coefficient.
 
 <img src="kmean_cluster.png" >
@@ -35,6 +35,18 @@ Clustering results by K-mean between two variables:
 
 <img src="kmean_pair_cluster.png" width="600" height="400">
 
+
+2. The Agglomerative Hierarchical Clustering Technique involves treating each data point as a separate cluster at the beginning. Through a series of iterations, similar clusters are combined with one another until a single cluster or K clusters are formed.
+
+Important step is to determine the number of clusters. I used Silhouette Coefficient.
+
+2 clusters were chosen based on silhouette analysis. 
+
+<img src="hierarchy_cluster_number.png" >
+
+Clustering results by Agglomerative Hierarchical Clustering Technique between two variables:
+
+<img src="hierarchy_pair_cluster.png"  width="600" height="400" >
 
 
 
