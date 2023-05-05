@@ -33,7 +33,7 @@ Important step is to determine the number of clusters. I used Silhouette Coeffic
 
 Clustering results by K-mean between two variables:
 
-<img src="kmean_pair_cluster.png" >
+<img src="kmean_pair_cluster.png" width="800" height="400">
 
 
 
