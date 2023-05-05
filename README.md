@@ -22,7 +22,12 @@ The dataset has been scaled:
 
 <img src="scaled.png" >
 
+Now, we are able to apply the clustering methods. 
 
+In data mining, the K-means algorithm is utilized to handle learning data. Initially, a set of random centroids is selected and assigned to each cluster. The algorithm then iteratively performs calculations to optimize the positions of the centroids until they become stable or a defined number of iterations is reached. At this point, the creation and optimization of clusters stop, indicating a successful clustering process.
+Important step is to determine the number of clusters. I used Silhouette Coefficient.
+
+<img src="kmean_cluster.png" >
 
 
 
