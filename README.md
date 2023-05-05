@@ -57,6 +57,15 @@ Clustering results by Agglomerative Hierarchical Clustering Technique between al
 
 <img src="hierarchy_all_cluster.png">
 
+3. DBSCAN, an acronym for Density-Based Spatial Clustering of Applications with Noise, is an unsupervised clustering algorithm that relies on density to group similar data points together. It identifies clusters as dense regions, separated by areas of lower densities.
+
+eps of this method was chosen 4500 based on the changing point of K-NN analysis.
+
+<img src="dbs_cluster_num.png">
+
+
+
+
 
 
 
