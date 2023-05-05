@@ -6,7 +6,7 @@ I have used threes approaches of clustering method on the data of credit card. T
 
 I check and rectify the missing values in the dataset:
 
-<img src="missing.png" ">
+<img src="missing.png" >
 
 The correlations between the parameters of the dataset is analyzed:
 
