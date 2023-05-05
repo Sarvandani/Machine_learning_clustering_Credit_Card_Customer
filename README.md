@@ -29,6 +29,16 @@ Important step is to determine the number of clusters. I used Silhouette Coeffic
 
 <img src="kmean_cluster.png" >
 
+3 clusters were chosen based on silhouette analysis. 
+
+Clustering results by K-mean between two variables:
+
+<img src="kmean_pair_cluster.png" >
+
+
+
+
+
 
 
 
