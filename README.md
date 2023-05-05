@@ -12,7 +12,7 @@ The correlations between the parameters of the dataset is analyzed:
 
 <img src="correlation.png" >
 
-The histograms of two parameters of dataset are visulized:
+The histograms of two parameters of the dataset have been visualized.
 
 <img src="balancee.png" >
 
