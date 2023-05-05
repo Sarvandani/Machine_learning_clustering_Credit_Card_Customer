@@ -10,7 +10,7 @@ I check and rectify the missing values in the dataset:
 
 The correlations between the parameters of the dataset is analyzed:
 
-<img src="correlation.png" width="800" height="400">
+<img src="correlation.png" width="800" height="600">
 
 The histograms of two parameters of dataset are visulized:
 
