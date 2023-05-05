@@ -53,6 +53,10 @@ Clustering results by Agglomerative Hierarchical Clustering Technique between tw
 
 <img src="hierarchy_pair_cluster.png"  width="600" height="400" >
 
+Clustering results by Agglomerative Hierarchical Clustering Technique between all variables:
+
+<img src="hierarchy_all_cluster.png">
+
 
 
 
