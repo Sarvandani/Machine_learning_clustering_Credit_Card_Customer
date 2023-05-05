@@ -14,9 +14,9 @@ The correlations between the parameters of the dataset is analyzed:
 
 The histograms of two parameters of dataset are visulized:
 
-<img src="balancee.png" width="800" height="400">
+<img src="balancee.png" >
 
-<img src="credit_limit.png" width="800" height="400">
+<img src="credit_limit.png" >
 
 
 
