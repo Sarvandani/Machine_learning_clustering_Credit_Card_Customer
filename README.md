@@ -18,6 +18,11 @@ The histograms of two parameters of the dataset have been visualized.
 
 <img src="credit_limit.png" >
 
+The dataset has been scaled:
+
+<img src="scaled.png" >
+
+
 
 
 
