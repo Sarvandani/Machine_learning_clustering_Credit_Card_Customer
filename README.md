@@ -35,6 +35,11 @@ Clustering results by K-mean between two variables:
 
 <img src="kmean_pair_cluster.png" width="600" height="400">
 
+Clustering results by K-mean between all variables:
+
+<img src="kmean_all_cluster.png">
+
+
 
 2. The Agglomerative Hierarchical Clustering Technique involves treating each data point as a separate cluster at the beginning. Through a series of iterations, similar clusters are combined with one another until a single cluster or K clusters are formed.
 
