@@ -22,6 +22,8 @@ The dataset has been scaled:
 
 <img src="scaled.png" >
 
+#  K-means clustering
+
 Now, we are able to apply the clustering methods. 
 
 1. In data mining, the K-means algorithm is utilized to handle learning data. Initially, a set of random centroids is selected and assigned to each cluster. The algorithm then iteratively performs calculations to optimize the positions of the centroids until they become stable or a defined number of iterations is reached. At this point, the creation and optimization of clusters stop, indicating a successful clustering process.
@@ -39,7 +41,7 @@ Clustering results by K-mean between all variables:
 
 <img src="kmean_all_cluster.png">
 
-
+# Agglomerative Hierarchical Clustering
 
 2. The Agglomerative Hierarchical Clustering Technique involves treating each data point as a separate cluster at the beginning. Through a series of iterations, similar clusters are combined with one another until a single cluster or K clusters are formed.
 
@@ -56,6 +58,7 @@ Clustering results by Agglomerative Hierarchical Clustering Technique between tw
 Clustering results by Agglomerative Hierarchical Clustering Technique between all variables:
 
 <img src="hierarchy_all_cluster.png">
+# DBSCAN clustering
 
 3. DBSCAN, an acronym for Density-Based Spatial Clustering of Applications with Noise, is an unsupervised clustering algorithm that relies on density to group similar data points together. It identifies clusters as dense regions, separated by areas of lower densities.
 
